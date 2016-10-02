@@ -1,0 +1,13 @@
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\FourCC.txt
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Psd.exe
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Psd.pdb
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Endogine.Codecs.Photoshop.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Endogine.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Endogine.Editors.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\bin\Release\Endogine.Codecs.Photoshop.pdb
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.csprojResolveAssemblyReference.cache
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.Form1.resources
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.Properties.Resources.resources
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.csproj.GenerateResource.Cache
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.exe
+G:\Game_illust\PSD作成ツール開発\PsdParser\Psd\obj\Release\Psd.pdb

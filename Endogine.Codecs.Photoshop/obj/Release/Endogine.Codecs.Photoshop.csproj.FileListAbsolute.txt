@@ -1,0 +1,7 @@
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\bin\Release\FourCC.txt
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\bin\Release\Endogine.Codecs.Photoshop.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\bin\Release\Endogine.Codecs.Photoshop.pdb
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\bin\Release\Endogine.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\obj\Release\Endogine.Codecs.Photoshop.dll
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\obj\Release\Endogine.Codecs.Photoshop.pdb
+G:\Game_illust\PSD作成ツール開発\PsdParser\Endogine.Codecs.Photoshop\obj\Release\Endogine.Codecs.Photoshop.csprojResolveAssemblyReference.cache
